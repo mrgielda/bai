@@ -15,12 +15,5 @@ POLAND
 */
 
 
-title = "dr";
-name = "Mateusz";
-surname = 'Kubicki';
-street = 'Długa 15';
-city = 'Kraków';
-zip = '30-781';
-country = 'Poland';
 
-TEST TEST
+test 2
